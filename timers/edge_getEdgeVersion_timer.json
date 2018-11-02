@@ -1,0 +1,8 @@
+{
+    "description": "Send the edge version to the platform weekly",
+    "frequency": 300,
+    "name": "edge_getEdgeVersion_timer",
+    "repeats": -1,
+    "service_name": "edge_getEdgeVersion",
+    "start_time": "2018-10-14T14:30:00Z"
+}
